@@ -1,0 +1,5 @@
+WPILib 2025.3.2 (with VSCode)
+WPILib 2026 (with VSCode) (not yet released)
+Git for Windows
+Phoenix Tuner X
+REV Hardware Client
