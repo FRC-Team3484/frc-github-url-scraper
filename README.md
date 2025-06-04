@@ -20,6 +20,13 @@ Install the required packages
 pip install -r requirements.txt
 ```
 
+Create the .env file
+```
+cp .env.template .env
+```
+
+Create a TBA API key [here](https://www.thebluealliance.com/account) and add it to the .env file
+
 Run the script
 ```bash
 python main.py
